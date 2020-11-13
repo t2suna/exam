@@ -1,0 +1,179 @@
+Mike
+1.wav a:5 b:3 c:3 d:2 e:3 f:2 g:3 h:5 i:4 j:3
+2.wav a:6 b:6 c:5 d:2 e:3 f:1 g:4 h:4 i:3 j:3
+3.wav a:3 b:2 c:3 d:4 e:4 f:3 g:2 h:2 i:3 j:4
+4.wav a:6 b:5 c:5 d:4 e:3 f:3 g:5 h:5 i:3 j:5
+5.wav a:7 b:3 c:4 d:1 e:1 f:2 g:1 h:5 i:2 j:4
+6.wav a:6 b:3 c:5 d:4 e:3 f:4 g:5 h:5 i:2 j:2
+7.wav a:7 b:4 c:6 d:2 e:1 f:3 g:4 h:5 i:2 j:1
+8.wav a:7 b:5 c:7 d:2 e:2 f:2 g:3 h:6 i:2 j:4
+9.wav a:5 b:3 c:5 d:4 e:3 f:4 g:4 h:5 i:5 j:5
+10.wav a:3 b:3 c:3 d:5 e:3 f:5 g:3 h:3 i:5 j:4
+11.wav a:3 b:5 c:5 d:5 e:4 f:3 g:4 h:6 i:5 j:3
+12.wav a:6 b:5 c:4 d:6 e:3 f:3 g:6 h:5 i:2 j:1
+13.wav a:7 b:5 c:3 d:4 e:2 f:4 g:1 h:3 i:6 j:2 
+14.wav a:2 b:4 c:5 d:2 e:2 f:4 g:2 h:3 i:6 j:3
+15.wav a:6 b:5 c:5 d:5 e:2 f:4 g:5 h:5 i:2 j:2
+16.wav a:4 b:5 c:3 d:5 e:3 f:4 g:4 h:3 i:5 j:5 
+
+Aki 
+1.wav a:1 b:3 c:4 d:2 e:1 f:4 g:3 h:4 i:5 j:3
+2.wav a:3 b:3 c:4 d:3 e:2 f:4 g:3 h:4 i:5 j:4
+3.wav a:2 b:1 c:4 d:3 e:2 f:5 g:3 h:4 i:5 j:3
+4.wav a:4 b:2 c:4 d:3 e:2 f:4 g:3 h:4 i:5 j:3
+5.wav a:5 b:3 c:4 d:2 e:2 f:4 g:2 h:4 i:6 j:3
+6.wav a:4 b:3 c:4 d:4 e:3 f:4 g:3 h:5 i:3 j:4
+7.wav a:5 b:2 c:5 d:2 e:2 f:4 g:2 h:4 i:6 j:4
+8.wav a:5 b:5 c:5 d:3 e:3 f:3 g:3 h:5 i:5 j:5
+9.wav a:4 b:3 c:5 d:3 e:3 f:3 g:3 h:5 i:5 j:4
+10.wav a:2 b:2 c:3 d:3 e:2 f:5 g:3 h:3 i:4 j:4
+11.wav a:3 b:3 c:4 d:3 e:3 f:4 g:3 h:4 i:5 j:4
+12.wav a:2 b:2 c:5 d:3 e:2 f:4 g:3 h:4 i:5 j:4
+13.wav a:6 b:3 c:3 d:3 e:2 f:5 g:3 h:4 i:5 j:4
+14.wav a:5 b:3 c:5 d:2 e:2 f:3 g:2 h:4 i:5 j:4
+15.wav a:3 b:3 c:5 d:3 e:2 f:3 g:3 h:5 i:5 j:4
+16.wav a:5 b:3 c:4 d:3 e:3 f:3 g:3 h:4 i:5 j:4
+
+Maiko 
+1.wav a:5 b:2 c:5 d:2 e:1 f:1 g:5 h:2 i:6 j:1
+2.wav a:7 b:5 c:6 d:1 e:1 f:2 g:5 h:6 i:6 j:2
+3.wav a:5 b:2 c:2 d:2 e:2 f:3 g:2 h:2 i:5 j:3
+4.wav a:3 b:3 c:2 d:5 e:3 f:3 g:3 h:5 i:2 j:5
+5.wav a:7 b:2 c:5 d:1 e:1 f:2 g:1 h:2 i:5 j:1
+6.wav a:2 b:6 c:5 d:6 e:5 f:3 g:5 h:5 i:2 j:7
+7.wav a:7 b:2 c:6 d:1 e:1 f:1 g:2 h:3 i:7 j:2
+8.wav a:1 b:6 c:7 d:5 e:2 f:3 g:5 h:6 i:5 j:6
+9.wav a:3 b:3 c:3 d:3 e:5 f:5 g:5 h:5 i:3 j:5
+10.wav a:2 b:2 c:3 d:3 e:5 f:5 g:4 h:3 i:3 j:3
+11.wav a:3 b:5 c:5 d:5 e:3 f:3 g:6 h:6 i:5 j:6
+12.wav a:5 b:3 c:6 d:3 e:3 f:3 g:3 h:3 i:5 j:5
+13.wav a:7 b:2 c:6 d:1 e:1 f:2 g:2 h:5 i:6 j:1
+14.wav a:6 b:2 c:5 d:1 e:1 f:1 g:1 h:3 i:7 j:1
+15.wav a:5 b:6 c:5 d:4 e:3 f:2 g:6 h:6 i:6 j:3
+16.wav a:3 b:2 c:5 d:2 e:3 f:2 g:2 h:3 i:5 j:5
+
+Yoshiki
+1.wav a:1 b:4 c:6 d:1 e:1 f:1 g:4 h:6 i:7 j:1
+2.wav a:2 b:5 c:6 d:2 e:2 f:1 g:6 h:7 i:7 j:2
+3.wav a:2 b:3 c:5 d:1 e:2 f:2 g:3 h:3 i:6 j:2
+4.wav a:2 b:6 c:7 d:2 e:2 f:2 g:5 h:6 i:5 j:5
+5.wav a:3 b:4 c:4 d:1 e:2 f:2 g:1 h:3 i:6 j:5
+6.wav a:1 b:5 c:5 d:3 e:3 f:4 g:3 h:4 i:6 j:5
+7.wav a:5 b:6 c:7 d:1 e:1 f:2 g:2 h:7 i:7 j:3
+8.wav a:2 b:7 c:6 d:2 e:1 f:1 g:4 h:7 i:7 j:6
+9.wav a:2 b:2 c:3 d:4 e:2 f:3 g:3 h:3 i:5 j:3
+10.wav a:1 b:2 c:3 d:4 e:5 f:4 g:3 h:2 i:4 j:1
+11.wav a:2 b:1 c:2 d:5 e:5 f:6 g:4 h:2 i:5 j:6
+12.wav a:2 b:5 c:3 d:3 e:3 f:4 g:3 h:3 i:3 j:6
+13.wav a:6 b:3 c:4 d:4 e:1 f:3 g:2 h:2 i:6 j:2
+14.wav a:3 b:6 c:5 d:1 e:2 f:2 g:1 h:2 i:6 j:2
+15.wav a:1 b:6 c:6 d:2 e:3 f:1 g:6 h:5 i:7 j:6
+16.wav a:1 b:2 c:5 d:5 e:4 f:5 g:3 h:3 i:5 j:5
+
+Monny
+1.wav a:4 b:3 c:5 d:2 e:3 f:2 g:2 h:5 i:6 j:2
+2.wav a:6 b:5 c:6 d:3 e:2 f:3 g:5 h:6 i:6 j:3
+3.wav a:3 b:2 c:3 d:3 e:4 f:4 g:3 h:3 i:4 j:5
+4.wav a:5 b:4 c:7 d:2 e:2 f:1 g:5 h:6 i:5 j:6
+5.wav a:3 b:3 c:5 d:2 e:2 f:2 g:3 h:3 i:6 j:6
+6.wav a:4 b:4 c:5 d:5 e:3 f:3 g:5 h:5 i:4 j:4
+7.wav a:7 b:5 c:6 d:2 e:1 f:2 g:3 h:6 i:7 j:5
+8.wav a:6 b:4 c:7 d:6 e:2 f:3 g:3 h:6 i:5 j:5
+9.wav a:4 b:3 c:3 d:5 e:3 f:5 g:3 h:3 i:3 j:5
+10.wav a:3 b:2 c:2 d:5 e:5 f:5 g:5 h:3 i:3 j:2
+11.wav a:3 b:5 c:5 d:5 e:5 f:3 g:5 h:5 i:3 j:7
+12.wav a:4 b:3 c:5 d:4 e:3 f:3 g:4 h:5 i:5 j:6
+13.wav a:7 b:4 c:7 d:1 e:1 f:2 g:3 h:4 i:7 j:3
+14.wav a:6 b:3 c:7 d:1 e:1 f:1 g:1 h:2 i:7 j:6
+15.wav a:4 b:4 c:6 d:2 e:3 f:2 g:4 h:5 i:6 j:5
+16.wav a:4 b:3 c:4 d:3 e:3 f:2 g:3 h:3 i:5 j:3
+
+Asuna
+1.wav a:3 b:3 c:6 d:2 e:1 f:5 g:6 h:5 i:2 j:7
+2.wav a:5 b:6 c:6 d:1 e:3 f:2 g:3 h:4 i:3 j:7
+3.wav a:2 b:2 c:2 d:7 e:5 f:7 g:3 h:2 i:4 j:3
+4.wav a:3 b:3 c:3 d:5 e:5 f:6 g:3 h:3 i:2 j:5
+5.wav a:5 b:4 c:3 d:3 e:2 f:4 g:3 h:4 i:3 j:5
+6.wav a:3 b:6 c:5 d:4 e:5 f:5 g:4 h:5 i:3 j:3
+7.wav a:7 b:5 c:6 d:1 e:1 f:3 g:2 h:5 i:7 j:7
+8.wav a:6 b:4 c:7 d:3 e:2 f:3 g:3 h:5 i:6 j:3
+9.wav a:2 b:3 c:5 d:4 e:2 f:4 g:5 h:7 i:5 j:5
+10.wav a:1 b:3 c:2 d:5 e:5 f:6 g:5 h:1 i:3 j:5
+11.wav a:4 b:4 c:5 d:5 e:5 f:5 g:6 h:6 i:3 j:6
+12.wav a:2 b:5 c:2 d:6 e:5 f:5 g:7 h:5 i:5 j:7
+13.wav a:7 b:4 c:5 d:1 e:1 f:2 g:2 h:3 i:6 j:3
+14.wav a:3 b:5 c:3 d:2 e:3 f:5 g:1 h:1 i:3 j:3
+15.wav a:3 b:6 c:6 d:5 e:3 f:3 g:6 h:7 i:7 j:1
+16.wav a:2 b:2 c:2 d:3 e:5 f:6 g:4 h:5 i:3 j:3
+
+Kirito
+1.wav a:2 b:2 c:5 d:3 e:2 f:3 g:3 h:3 i:6 j:5
+2.wav a:4 b:3 c:3 d:5 e:2 f:5 g:5 h:5 i:6 j:6
+3.wav b:3 c:3 d:3 e:3 f:6 f:5 g:2 h:5 i:5 j:3
+4.wav a:2 b:2 c:3 d:5 e:3 f:5 g:5 h:6 i:6 j:3
+5.wav a:4 b:3 c:3 d:5 e:3 f:5 g:5 h:5 i:5 j:6
+6.wav a:3 b:3 c:5 d:5 e:3 f:5 g:3 h:5 i:5 j:3
+7.wav a:5 b:4 c:5 d:5 e:2 f:3 g:3 h:6 i:5 j:5
+8.wav a:2 b:5 c:5 d:5 e:5 f:5 g:6 h:6 i:4 j:6
+9.wav a:4 b:3 c:3 d:5 e:3 f:5 g:5 h:6 i:5 j:5
+10.wav a:2 b:3 c:3 d:5 e:3 f:5 g:5 h:6 i:6 j:2
+11.wav a:3 b:3 c:3 d:5 e:4 f:5 g:5 h:5 i:3 j:6
+12.wav a:3 b:3 c:5 d:5 e:5 f:5 g:5 h:5 i:3 j:6
+13.wav a:5 b:2 c:3 d:3 e:2 f:3 g:2 h:5 i:5 j:3
+14.wav a:4 b:5 c:5 d:3 e:3 f:3 g:3 h:6 i:5 j:6
+15.wav a:4 b:5 c:5 d:5 e:3 f:3 g:4 h:5 i:5 j:3
+16.wav a:3 b:3 c:3 d:5 e:3 f:6 g:3 h:5 i:5 j:5
+
+Mamoru
+1.wav a:3 b:1 c:6 d:2 e:2 f:3 g:4 h:3 i:6 j:6
+2.wav a:3 b:5 c:5 d:3 e:2 f:3 g:2 h:4 i:6 j:5
+3.wav a:5 b:3 c:4 d:1 e:2 f:2 g:1 h:3 i:6 j:7
+4.wav a:5 b:3 c:5 d:4 e:3 f:2 g:4 h:2 i:5 j:5
+5.wav a:7 b:2 c:5 d:1 e:2 f:1 g:1 h:2 i:7 j:5
+6.wav a:3 b:5 c:2 d:6 e:6 f:4 g:6 h:6 i:5 j:6
+7.wav a:4 b:2 c:6 d:5 e:2 f:4 g:2 h:5 i:6 j:3
+8.wav a:5 b:6 c:7 d:1 e:2 f:3 g:2 h:7 i:4 j:5
+9.wav a:4 b:4 c:3 d:4 e:4 f:4 g:4 h:5 i:4 j:5
+10.wav a:2 b:3 c:2 d:4 e:5 f:5 g:4 h:5 i:4 j:4
+11.wav a:3 b:5 c:3 d:2 e:5 f:4 g:3 h:6 i:4 j:4
+12.wav a:6 b:6 c:3 d:5 e:1 f:4 g:5 h:6 i:5 j:4
+13.wav a:7 b:4 c:6 d:1 e:2 f:2 g:3 h:6 i:7 j:3
+14.wav a:6 b:3 c:7 d:1 e:2 f:2 g:3 h:6 i:5 j:4
+15.wav a:3 b:5 c:4 d:3 e:3 f:4 g:4 h:5 i:4 j:4
+16.wav a:4 b:4 c:5 d:3 e:3 f:3 g:4 h:5 i:3 j:4
+
+Takashi
+a (3, 5, 2, 2, 5, 2, 5, 5, 3, 1, 1, 5, 7, 4, 4, 4)
+b (1, 2, 2, 2, 2, 2, 1, 4, 3, 1, 2, 3, 3, 3, 5, 2)
+c (7, 3, 2, 4, 5, 2, 6, 5, 4, 3, 3, 5, 3, 4, 5, 5)
+d (1, 2, 2, 3, 6, 3, 2, 6, 3, 3, 3, 3, 3, 2, 5, 3)
+e (1, 2, 2, 3, 2, 3, 2, 2, 3, 4, 3, 3, 2, 1, 5, 5)
+f (2, 2, 3, 3, 2, 3, 2, 3, 3, 5, 5, 3, 2, 2, 2, 3)
+g (2, 1, 3, 3, 2, 5, 2, 2, 2, 2, 3, 3, 1, 1, 5, 2)
+h (5, 3, 2, 3, 4, 5, 5, 5, 5, 2, 3, 5, 2, 4, 6, 5)
+i (2, 6, 6, 5, 5, 5, 6, 2, 5, 4, 5, 6, 7, 6, 6, 6)
+j (3, 2, 5, 4, 6, 4, 7, 4, 4, 3, 3, 4, 4, 4, 4, 4)
+
+Gohan 
+a (4, 6, 5, 3, 6, 5, 7, 5, 3, 2, 3, 5, 6, 5, 4, 4)
+b (2, 5, 2, 4, 5, 4, 4, 5, 5, 5, 4, 5, 2, 4, 5, 3)
+c (6, 6, 3, 4, 4, 2, 6, 7, 5, 2, 6, 3, 6, 2, 2, 4)
+d (6, 2, 1, 3, 1, 2, 3, 5, 4, 5, 6, 3, 3, 2, 2, 3)
+e (6, 1, 1, 3, 1, 3, 7, 7, 3, 5, 5, 2, 1, 2, 3, 3)
+f (3, 3, 5, 5, 2, 6, 4, 4, 5, 5, 6, 5, 5, 6, 5, 3)
+g (1, 4, 1, 4, 1, 2, 4, 1, 5, 4, 3, 3, 1, 1, 3, 2)
+h (2, 3, 3, 3, 3, 3, 4, 4, 5, 5, 4, 4, 2, 2, 2, 3)
+i (6, 6, 6, 7, 7, 6, 7, 7, 3, 2, 3, 6, 7, 6, 3, 3)
+j (3, 4, 4, 3, 3, 1, 7, 7, 3, 3, 5, 3, 2, 4, 4, 3)
+
+Yousuke
+a (3, 5, 2, 3, 5, 6, 3, 7, 3, 3, 2, 5, 7, 6, 4, 5)
+b (3, 5, 2, 3, 3, 3, 2, 6, 3, 3, 2, 2, 2, 1, 5, 2)
+c (6, 6, 2, 3, 5, 5, 6, 7, 3, 2, 2, 6, 2, 6, 2, 3)
+d (6, 6, 2, 3, 5, 5, 6, 7, 3, 4, 2, 6, 1, 7, 3, 5)
+e (1, 2, 2, 5, 2, 4, 1, 2, 2, 3, 3, 2, 2, 1, 5, 3)
+f (3, 2, 6, 5, 5, 4, 2, 2, 6, 6, 6, 5, 6, 6, 5, 3)
+g (5, 4, 4, 5, 2, 4, 2, 6, 3, 3, 5, 5, 1, 1, 5, 2)
+h (5, 4, 4, 5, 3, 3, 5, 7, 3, 3, 5, 6, 6, 7, 5, 5)
+i (7, 6, 3, 4, 3, 2, 7, 6, 3, 5, 5, 5, 3, 2, 5, 2)
+j (2, 4, 3, 5, 3, 3, 2, 4, 3, 5, 3, 2, 1, 1, 5, 5)
